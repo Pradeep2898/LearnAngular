@@ -1,3 +1,4 @@
+A simple Angular project to learn the concepts of Reactive forms, Validators, ng-directives, etc.
 # LearnAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
