@@ -1,0 +1,25 @@
+body{
+  background-color: #202424;
+  color: #ffffff;
+  height: auto;
+  min-height: 100%;
+}
+.heading{
+  font-family: 'Open Sans';
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.content {
+  width: 75%;
+  text-align: justify;
+  text-justify: inter-word;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Roboto';
+  border-right: 3px solid #9a9a9a;
+  border-radius: 5px;
+}
+.footer{
+  height: 50px;
+  padding-left: 5px;
+}
